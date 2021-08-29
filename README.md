@@ -1,5 +1,5 @@
 # Island Escape
-W- To jump&nbsp;
-A,D - To Move&nbsp;
-Q - To throw grenade&nbsp;
+W- To jump\
+A,D - To Move\
+Q - To throw grenade\
 Space - To shoot
